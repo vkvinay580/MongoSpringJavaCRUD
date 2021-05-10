@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "6095a516a6b037834704e5ad"
+  },
+  "Brand": "SanDisk",
+  "Category": "USB",
+  "Name": "SDUSB16",
+  "Quantity": "250",
+  "Value": "5"
+},{
+  "_id": {
+    "$oid": "6095a518a6b037834704e5ae"
+  },
+  "Brand": "JBL",
+  "Category": "Earphones",
+  "Name": "JBLMax",
+  "Quantity": "150",
+  "Value": "25"
+},{
+  "_id": {
+    "$oid": "6095a51ba6b037834704e5af"
+  },
+  "Brand": "Razer",
+  "Category": "Mouse",
+  "Name": "RZMCyberPunk",
+  "Quantity": "10",
+  "Value": "200"
+},{
+  "_id": {
+    "$oid": "6095a51da6b037834704e5b0"
+  },
+  "Brand": "Genesys",
+  "Category": "Laptop Cooler",
+  "Name": "GLC4fan",
+  "Quantity": "200",
+  "Value": "15"
+},{
+  "_id": {
+    "$oid": "6095a74da6b037834704e5b1"
+  },
+  "Brand": "DJI",
+  "Category": "Drone",
+  "Name": "MavicMini",
+  "Quantity": "50",
+  "Value": "150"
+}]

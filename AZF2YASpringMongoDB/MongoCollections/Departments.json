@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "6095ff11a6b037834704e5d5"
+  },
+  "Name": "Cosmetics",
+  "Brands": [
+    "Fenty",
+    "Maybelline",
+    "Chanel",
+    "YSL"
+  ]
+},{
+  "_id": {
+    "$oid": "6096002ea6b037834704e5d6"
+  },
+  "Name": "Electronics",
+  "Brands": [
+    "SanDisk",
+    "JBL",
+    "Razer",
+    "Genesys",
+    "DJI"
+  ]
+},{
+  "_id": {
+    "$oid": "60960037a6b037834704e5d7"
+  },
+  "Name": "HomeDecor",
+  "Brands": [
+    "BlockShop",
+    "Leif"
+  ]
+},{
+  "_id": {
+    "$oid": "6096003ca6b037834704e5d8"
+  },
+  "Name": "Stationery",
+  "Brands": [
+    "Dunder Miffin",
+    "MontBlanc",
+    "Aurora"
+  ]
+}]

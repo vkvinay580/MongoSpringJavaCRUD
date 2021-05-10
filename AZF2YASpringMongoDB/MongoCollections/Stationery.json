@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6095aab9a6b037834704e5b6"
+  },
+  "Brand": "Dunder Miffin",
+  "Category": "A4Paper",
+  "Name": "DM012",
+  "Quantity": "500",
+  "Value": "5"
+},{
+  "_id": {
+    "$oid": "6095aabda6b037834704e5b7"
+  },
+  " ": "",
+  "Brand": "Dunder Miffin",
+  "Category": "A5Paper",
+  "Name": "DM022",
+  "Quantity": "400",
+  "Value": "5"
+},{
+  "_id": {
+    "$oid": "6095aabfa6b037834704e5b8"
+  },
+  "Brand": "Dudnder Miffin",
+  "Category": "A3Paper",
+  "Name": "DM032",
+  "Quantity": "600",
+  "Value": "5"
+},{
+  "_id": {
+    "$oid": "6095aac3a6b037834704e5b9"
+  },
+  "Brand": "MontBlanc",
+  "Category": "PaperWeight",
+  "Name": "MB012",
+  "Quantity": "10",
+  "Value": "180"
+},{
+  "_id": {
+    "$oid": "6095abdca6b037834704e5bb"
+  },
+  "Brand": "MontBlanc",
+  "Category": "Pen",
+  "Name": "MB007",
+  "Quantity": "10",
+  "Value": "250"
+},{
+  "_id": {
+    "$oid": "6095ac14a6b037834704e5bc"
+  },
+  "Brand": "Aurora",
+  "Category": "Pen",
+  "Name": "Diamente",
+  "Quantity": "2",
+  "Value": "10000"
+}]

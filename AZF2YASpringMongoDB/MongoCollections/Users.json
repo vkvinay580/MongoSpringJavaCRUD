@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6095cd52a6b037834704e5c0"
+  },
+  "address": "Uni Hotel",
+  "email": "vkvinay580@gmail.com",
+  "phone": "123123123",
+  "userid": "vkvinay",
+  "name": "VK"
+},{
+  "_id": {
+    "$oid": "6095cd56a6b037834704e5c1"
+  },
+  "address": "UniversityofMiskolc",
+  "email": "vinaykarthik@googleemail.in",
+  "phone": "123123123",
+  "userid": "vk",
+  "name": "VKVK"
+}]

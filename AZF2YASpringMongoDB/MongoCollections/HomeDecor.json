@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6095a98ea6b037834704e5b2"
+  },
+  "Brand": "BlockShop",
+  "Category": "Artifacts",
+  "Name": "Bs012",
+  "Quantity": "10",
+  "Value": "200"
+},{
+  "_id": {
+    "$oid": "6095a992a6b037834704e5b3"
+  },
+  "Brand": "Leif",
+  "Category": "Linen",
+  "Name": "LF012",
+  "Quantity": "200",
+  "Value": "50"
+},{
+  "_id": {
+    "$oid": "6095a994a6b037834704e5b4"
+  },
+  "Brand": "BlockShop",
+  "Category": "Painting",
+  "Name": "BS022",
+  "Quantity": "10",
+  "Value": "150"
+},{
+  "_id": {
+    "$oid": "6095a996a6b037834704e5b5"
+  },
+  "Brand": "Leif",
+  "Category": "Linen",
+  "Name": "LF022",
+  "Quantity": "150",
+  "Value": "80"
+}]

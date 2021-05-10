@@ -1,0 +1,191 @@
+[{
+  "_id": {
+    "$oid": "6095fa4ea6b037834704e5c2"
+  },
+  "name": "DM012",
+  "price": "5",
+  "quantity": "500",
+  "department": "Stationery",
+  "supplier": "VK",
+  "brand": "DunderMiffin"
+},{
+  "_id": {
+    "$oid": "6095faafa6b037834704e5c3"
+  },
+  "name": "DM022",
+  "price": "5",
+  "quantity": "400",
+  "department": "Stationery",
+  "supplier": "VK",
+  "brand": "DunderMiffin"
+},{
+  "_id": {
+    "$oid": "6095facaa6b037834704e5c4"
+  },
+  "name": "DM032",
+  "price": "5",
+  "quantity": "600",
+  "department": "Stationery",
+  "supplier": "VK",
+  "brand": "DunderMiffin"
+},{
+  "_id": {
+    "$oid": "6095fad0a6b037834704e5c5"
+  },
+  "name": "MB012",
+  "price": "180",
+  "quantity": "10",
+  "department": "Stationery",
+  "supplier": "VK",
+  "brand": "MontBlanc"
+},{
+  "_id": {
+    "$oid": "6095fad4a6b037834704e5c6"
+  },
+  "name": "MB007",
+  "price": "250",
+  "quantity": "10",
+  "department": "Stationery",
+  "supplier": "VK",
+  "brand": "MontBlanc"
+},{
+  "_id": {
+    "$oid": "6095fae8a6b037834704e5c7"
+  },
+  "name": "Diamente",
+  "price": "10000",
+  "quantity": "2",
+  "department": "Stationery",
+  "supplier": "VK",
+  "brand": "Aurora"
+},{
+  "_id": {
+    "$oid": "6095faefa6b037834704e5c8"
+  },
+  "name": "BS012",
+  "price": "200",
+  "quantity": "10",
+  "department": "HomeDecor",
+  "supplier": "VK",
+  "brand": "BlockShop"
+},{
+  "_id": {
+    "$oid": "6095faf3a6b037834704e5c9"
+  },
+  "name": "BS022",
+  "price": "150",
+  "quantity": "10",
+  "department": "HomeDecor",
+  "supplier": "VK",
+  "brand": "BlockShop"
+},{
+  "_id": {
+    "$oid": "6095faf8a6b037834704e5ca"
+  },
+  "name": "LF012",
+  "price": "50",
+  "quantity": "200",
+  "department": "HomeDecor",
+  "supplier": "VK",
+  "brand": "Leif"
+},{
+  "_id": {
+    "$oid": "6095fafba6b037834704e5cb"
+  },
+  "name": "LF022",
+  "price": "80",
+  "quantity": "150",
+  "department": "homeDecor",
+  "supplier": "VK",
+  "brand": "Leif"
+},{
+  "_id": {
+    "$oid": "6095faffa6b037834704e5cc"
+  },
+  "name": "SDUSB16",
+  "price": "5",
+  "quantity": "250",
+  "department": "Electronics",
+  "supplier": "VK",
+  "brand": "SanDisk"
+},{
+  "_id": {
+    "$oid": "6095fb03a6b037834704e5cd"
+  },
+  "name": "JBLMAx",
+  "price": "25",
+  "quantity": "150",
+  "department": "Electronics",
+  "supplier": "VK",
+  "brand": "JBL"
+},{
+  "_id": {
+    "$oid": "6095fb07a6b037834704e5ce"
+  },
+  "name": "RZMCyberPunk",
+  "price": "200",
+  "quantity": "10",
+  "department": "Electronics",
+  "supplier": "VK",
+  "brand": "Razer"
+},{
+  "_id": {
+    "$oid": "6095fb0aa6b037834704e5cf"
+  },
+  "name": "GLC4fan",
+  "price": "15",
+  "quantity": "200",
+  "department": "Electronics",
+  "supplier": "VK",
+  "brand": "Genesys"
+},{
+  "_id": {
+    "$oid": "6095fb0fa6b037834704e5d0"
+  },
+  "name": "MavicMini",
+  "price": "150",
+  "quantity": "50",
+  "department": "Electronics",
+  "supplier": "VK",
+  "brand": "DJI"
+},{
+  "_id": {
+    "$oid": "6095fb13a6b037834704e5d1"
+  },
+  "name": "FF012",
+  "price": "25",
+  "quantity": "200",
+  "department": "Cosmetics",
+  "supplier": "VK",
+  "brand": "Fenty"
+},{
+  "_id": {
+    "$oid": "6095fb16a6b037834704e5d2"
+  },
+  "name": "ML012Red",
+  "price": "12",
+  "quantity": "250",
+  "department": "Cosmetics",
+  "supplier": "VK",
+  "brand": "Maybelline"
+},{
+  "_id": {
+    "$oid": "6095fb1ba6b037834704e5d3"
+  },
+  "name": "CH012",
+  "price": "255",
+  "quantity": "100",
+  "department": "Cosmetics",
+  "supplier": "VK",
+  "brand": "Chanel"
+},{
+  "_id": {
+    "$oid": "6095fb1ea6b037834704e5d4"
+  },
+  "name": "YSL012",
+  "price": "150",
+  "quantity": "25",
+  "department": "Cosmetics",
+  "supplier": "VK",
+  "brand": "YSL"
+}]

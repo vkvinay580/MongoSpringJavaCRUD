@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.springmongo.inventorymanager.demo</OriginalElement>
+  <nodes>
+    <node x="64.75" y="0.0">com.springmongo.inventorymanager.demo.model.Orders</node>
+    <node x="347.5" y="1329.0">com.springmongo.inventorymanager.demo.controller.DepartmentsController</node>
+    <node x="717.75" y="1307.0">com.springmongo.inventorymanager.demo.controller.BrandsController</node>
+    <node x="697.0" y="809.0">com.springmongo.inventorymanager.demo.repository.CosmeticsRepository</node>
+    <node x="786.25" y="572.0">com.springmongo.inventorymanager.demo.model.Cosmetics</node>
+    <node x="16.25" y="383.0">com.springmongo.inventorymanager.demo.controller.OrdersController</node>
+    <node x="0.0" y="1293.0">com.springmongo.inventorymanager.demo.repository.SuppliersRepository</node>
+    <node x="4.25" y="889.0">com.springmongo.inventorymanager.demo.controller.HomeDecorController</node>
+    <node x="325.5" y="339.0">com.springmongo.inventorymanager.demo.controller.StoreInventoryController</node>
+    <node x="0.0" y="303.0">com.springmongo.inventorymanager.demo.repository.OrdersRepository</node>
+    <node x="696.5" y="259.0">com.springmongo.inventorymanager.demo.repository.CartRepository</node>
+    <node x="1074.0" y="0.0">com.springmongo.inventorymanager.demo.model.Electronics</node>
+    <node x="89.25" y="572.0">com.springmongo.inventorymanager.demo.model.HomeDecor</node>
+    <node x="1102.5" y="572.0">com.springmongo.inventorymanager.demo.model.Users</node>
+    <node x="749.75" y="0.0">com.springmongo.inventorymanager.demo.model.Cart</node>
+    <node x="446.5" y="572.0">com.springmongo.inventorymanager.demo.model.Stationery</node>
+    <node x="351.25" y="809.0">com.springmongo.inventorymanager.demo.repository.StationeryRepository</node>
+    <node x="1243.75" y="1078.0">com.springmongo.inventorymanager.demo.VkApplication</node>
+    <node x="999.0" y="317.0">com.springmongo.inventorymanager.demo.controller.ElectronicsController</node>
+    <node x="1054.5" y="889.0">com.springmongo.inventorymanager.demo.controller.UsersController</node>
+    <node x="1006.75" y="1078.0">com.springmongo.inventorymanager.demo.VkApplicationTests</node>
+    <node x="303.25" y="259.0">com.springmongo.inventorymanager.demo.repository.StoreInventoryRepository</node>
+    <node x="0.0" y="809.0">com.springmongo.inventorymanager.demo.repository.HomeDecorRepository</node>
+    <node x="89.25" y="1078.0">com.springmongo.inventorymanager.demo.model.Suppliers</node>
+    <node x="773.75" y="1078.0">com.springmongo.inventorymanager.demo.model.Brands</node>
+    <node x="20.25" y="1373.0">com.springmongo.inventorymanager.demo.controller.SuppliersController</node>
+    <node x="712.25" y="889.0">com.springmongo.inventorymanager.demo.controller.CosmeticsController</node>
+    <node x="373.0" y="889.0">com.springmongo.inventorymanager.demo.controller.StationeryController</node>
+    <node x="408.5" y="0.0">com.springmongo.inventorymanager.demo.model.StoreInventory</node>
+    <node x="1037.25" y="809.0">com.springmongo.inventorymanager.demo.repository.UsersRepository</node>
+    <node x="434.5" y="1078.0">com.springmongo.inventorymanager.demo.model.Departments</node>
+    <node x="713.75" y="339.0">com.springmongo.inventorymanager.demo.controller.CartController</node>
+    <node x="702.5" y="1227.0">com.springmongo.inventorymanager.demo.repository.BrandsRepository</node>
+    <node x="335.25" y="1249.0">com.springmongo.inventorymanager.demo.repository.DepartmentsRepository</node>
+    <node x="974.75" y="237.0">com.springmongo.inventorymanager.demo.repository.ElectronicsRepository</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.springmongo.inventorymanager.demo.repository.OrdersRepository" target="com.springmongo.inventorymanager.demo.model.Orders">
+      <point x="0.0" y="-15.0" />
+      <point x="88.0" y="278.0" />
+      <point x="101.0" y="278.0" />
+      <point x="-36.25" y="126.5" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.repository.StoreInventoryRepository" target="com.springmongo.inventorymanager.demo.model.StoreInventory">
+      <point x="0.0" y="-15.0" />
+      <point x="423.25" y="234.0" />
+      <point x="448.5" y="234.0" />
+      <point x="-40.0" y="104.5" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.repository.DepartmentsRepository" target="com.springmongo.inventorymanager.demo.model.Departments">
+      <point x="0.0" y="-15.0" />
+      <point x="443.25" y="1224.0" />
+      <point x="468.5" y="1224.0" />
+      <point x="-34.0" y="60.5" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.repository.StationeryRepository" target="com.springmongo.inventorymanager.demo.model.Stationery">
+      <point x="0.0" y="-15.0" />
+      <point x="455.25" y="784.0" />
+      <point x="479.5" y="784.0" />
+      <point x="-33.0" y="93.5" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.repository.UsersRepository" target="com.springmongo.inventorymanager.demo.model.Users">
+      <point x="0.0" y="-15.0" />
+      <point x="1121.25" y="784.0" />
+      <point x="1135.5" y="784.0" />
+      <point x="-33.0" y="93.5" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.controller.StationeryController" target="com.springmongo.inventorymanager.demo.model.Stationery">
+      <point x="69.75" y="-72.0" />
+      <point x="582.25" y="864.0" />
+      <point x="569.75" y="864.0" />
+      <point x="569.75" y="784.0" />
+      <point x="545.5" y="784.0" />
+      <point x="33.0" y="93.5" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.controller.CosmeticsController" target="com.springmongo.inventorymanager.demo.repository.CosmeticsRepository">
+      <point x="-70.0" y="-72.0" />
+      <point x="782.25" y="864.0" />
+      <point x="797.0" y="864.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.controller.SuppliersController" target="com.springmongo.inventorymanager.demo.model.Suppliers">
+      <point x="67.5" y="-72.0" />
+      <point x="222.75" y="1348.0" />
+      <point x="210.5" y="1348.0" />
+      <point x="210.5" y="1268.0" />
+      <point x="188.25" y="1268.0" />
+      <point x="33.0" y="82.5" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.repository.CosmeticsRepository" target="com.springmongo.inventorymanager.demo.model.Cosmetics">
+      <point x="0.0" y="-15.0" />
+      <point x="797.0" y="784.0" />
+      <point x="819.25" y="784.0" />
+      <point x="-33.0" y="93.5" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.controller.ElectronicsController" target="com.springmongo.inventorymanager.demo.repository.ElectronicsRepository">
+      <point x="-71.5" y="-72.0" />
+      <point x="1070.5" y="292.0" />
+      <point x="1082.75" y="292.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.controller.OrdersController" target="com.springmongo.inventorymanager.demo.model.Orders">
+      <point x="60.5" y="-72.0" />
+      <point x="197.75" y="358.0" />
+      <point x="186.5" y="358.0" />
+      <point x="186.5" y="278.0" />
+      <point x="173.5" y="278.0" />
+      <point x="36.25" y="126.5" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.repository.ElectronicsRepository" target="com.springmongo.inventorymanager.demo.model.Electronics">
+      <point x="0.0" y="-15.0" />
+      <point x="1082.75" y="212.0" />
+      <point x="1108.0" y="212.0" />
+      <point x="-34.0" y="93.5" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.controller.UsersController" target="com.springmongo.inventorymanager.demo.repository.UsersRepository">
+      <point x="-57.0" y="-72.0" />
+      <point x="1111.5" y="864.0" />
+      <point x="1121.25" y="864.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.repository.BrandsRepository" target="com.springmongo.inventorymanager.demo.model.Brands">
+      <point x="0.0" y="-15.0" />
+      <point x="790.5" y="1202.0" />
+      <point x="806.75" y="1202.0" />
+      <point x="-33.0" y="49.5" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.controller.CartController" target="com.springmongo.inventorymanager.demo.model.Cart">
+      <point x="54.0" y="-72.0" />
+      <point x="875.75" y="314.0" />
+      <point x="867.0" y="314.0" />
+      <point x="867.0" y="234.0" />
+      <point x="857.75" y="234.0" />
+      <point x="36.0" y="104.5" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.controller.SuppliersController" target="com.springmongo.inventorymanager.demo.repository.SuppliersRepository">
+      <point x="-67.5" y="-72.0" />
+      <point x="87.75" y="1348.0" />
+      <point x="100.0" y="1348.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.repository.HomeDecorRepository" target="com.springmongo.inventorymanager.demo.model.HomeDecor">
+      <point x="0.0" y="-15.0" />
+      <point x="100.0" y="784.0" />
+      <point x="122.25" y="784.0" />
+      <point x="-33.0" y="93.5" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.controller.StationeryController" target="com.springmongo.inventorymanager.demo.repository.StationeryRepository">
+      <point x="-69.75" y="-72.0" />
+      <point x="442.75" y="864.0" />
+      <point x="455.25" y="864.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.controller.HomeDecorController" target="com.springmongo.inventorymanager.demo.repository.HomeDecorRepository">
+      <point x="-75.5" y="-72.0" />
+      <point x="79.75" y="864.0" />
+      <point x="100.0" y="864.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.controller.BrandsController" target="com.springmongo.inventorymanager.demo.repository.BrandsRepository">
+      <point x="-61.0" y="-72.0" />
+      <point x="778.75" y="1282.0" />
+      <point x="790.5" y="1282.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.repository.SuppliersRepository" target="com.springmongo.inventorymanager.demo.model.Suppliers">
+      <point x="0.0" y="-15.0" />
+      <point x="100.0" y="1268.0" />
+      <point x="122.25" y="1268.0" />
+      <point x="-33.0" y="82.5" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.controller.CosmeticsController" target="com.springmongo.inventorymanager.demo.model.Cosmetics">
+      <point x="70.0" y="-72.0" />
+      <point x="922.25" y="864.0" />
+      <point x="907.5" y="864.0" />
+      <point x="907.5" y="784.0" />
+      <point x="885.25" y="784.0" />
+      <point x="33.0" y="93.5" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.controller.StoreInventoryController" target="com.springmongo.inventorymanager.demo.model.StoreInventory">
+      <point x="81.5" y="-72.0" />
+      <point x="570.0" y="314.0" />
+      <point x="553.75" y="314.0" />
+      <point x="553.75" y="234.0" />
+      <point x="528.5" y="234.0" />
+      <point x="40.0" y="104.5" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.controller.UsersController" target="com.springmongo.inventorymanager.demo.model.Users">
+      <point x="57.0" y="-72.0" />
+      <point x="1225.5" y="864.0" />
+      <point x="1215.75" y="864.0" />
+      <point x="1215.75" y="784.0" />
+      <point x="1201.5" y="784.0" />
+      <point x="33.0" y="93.5" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.controller.DepartmentsController" target="com.springmongo.inventorymanager.demo.model.Departments">
+      <point x="77.5" y="-72.0" />
+      <point x="580.0" y="1304.0" />
+      <point x="561.75" y="1304.0" />
+      <point x="561.75" y="1224.0" />
+      <point x="536.5" y="1224.0" />
+      <point x="34.0" y="60.5" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.controller.DepartmentsController" target="com.springmongo.inventorymanager.demo.repository.DepartmentsRepository">
+      <point x="-77.5" y="-72.0" />
+      <point x="425.0" y="1304.0" />
+      <point x="443.25" y="1304.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.repository.CartRepository" target="com.springmongo.inventorymanager.demo.model.Cart">
+      <point x="0.0" y="-15.0" />
+      <point x="776.5" y="234.0" />
+      <point x="785.75" y="234.0" />
+      <point x="-36.0" y="104.5" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.controller.BrandsController" target="com.springmongo.inventorymanager.demo.model.Brands">
+      <point x="61.0" y="-72.0" />
+      <point x="900.75" y="1282.0" />
+      <point x="889.0" y="1282.0" />
+      <point x="889.0" y="1202.0" />
+      <point x="872.75" y="1202.0" />
+      <point x="33.0" y="49.5" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.controller.HomeDecorController" target="com.springmongo.inventorymanager.demo.model.HomeDecor">
+      <point x="75.5" y="-72.0" />
+      <point x="230.75" y="864.0" />
+      <point x="210.5" y="864.0" />
+      <point x="210.5" y="784.0" />
+      <point x="188.25" y="784.0" />
+      <point x="33.0" y="93.5" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.controller.StoreInventoryController" target="com.springmongo.inventorymanager.demo.repository.StoreInventoryRepository">
+      <point x="-81.5" y="-72.0" />
+      <point x="407.0" y="314.0" />
+      <point x="423.25" y="314.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.controller.ElectronicsController" target="com.springmongo.inventorymanager.demo.model.Electronics">
+      <point x="71.5" y="-72.0" />
+      <point x="1213.5" y="292.0" />
+      <point x="1201.25" y="292.0" />
+      <point x="1201.25" y="212.0" />
+      <point x="1176.0" y="212.0" />
+      <point x="34.0" y="93.5" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.controller.CartController" target="com.springmongo.inventorymanager.demo.repository.CartRepository">
+      <point x="-54.0" y="-72.0" />
+      <point x="767.75" y="314.0" />
+      <point x="776.5" y="314.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.springmongo.inventorymanager.demo.controller.OrdersController" target="com.springmongo.inventorymanager.demo.repository.OrdersRepository">
+      <point x="-60.5" y="-72.0" />
+      <point x="76.75" y="358.0" />
+      <point x="88.0" y="358.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.4424202992843201" x="698.0" y="768.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Inner Classes</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

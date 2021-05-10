@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6095a095a6b037834704e5a6"
+  },
+  "Brand": "Fenty",
+  "Category": "Foundation",
+  "Name": "FF012",
+  "Value": "25",
+  "Quantity": "200"
+},{
+  "_id": {
+    "$oid": "6095a382a6b037834704e5aa"
+  },
+  "Brand": "Maybelline",
+  "Category": "Lipstick",
+  "Name": "ML012Red",
+  "Value": "12",
+  "Quantity": "250"
+},{
+  "_id": {
+    "$oid": "6095a3d4a6b037834704e5ab"
+  },
+  "Brand": "Chanel",
+  "Category": "Mirror",
+  "Name": "CH012",
+  "Value": "25",
+  "Quantity": "100"
+},{
+  "_id": {
+    "$oid": "6095a43aa6b037834704e5ac"
+  },
+  "Brand": "YSL",
+  "Category": "Perfume",
+  "Name": "YSL012",
+  "Value": "150",
+  "Quantity": "25"
+}]
